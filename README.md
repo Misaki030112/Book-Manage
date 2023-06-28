@@ -16,9 +16,9 @@ MYSQL 5.7+
 
 ## Run Command
 ```
-$ git clone https://github.com/withstars/Books-Management-System
+$ git clone https://github.com/Misaki030112/Book-Manage.git
 
-$ cd Books-Management
+$ cd Books-Manage
 
 $ mvn clean compile package install 
 
